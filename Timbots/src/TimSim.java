@@ -25,6 +25,12 @@ public class TimSim {
   public static void main( String [] args ) {
     try (// Instatiate Scanner to read in he timbot configuration
         // console and loading the image
+       
+       
+       //this done by Iqbal 
+       System.out.println( "Iqbal");
+       
+       
     Scanner stdin = new Scanner( System.in )) {
       // for debugging purposes (please ignore)
       boolean debug = ( args.length > 0 ) && args[0].equals( "debug" );
